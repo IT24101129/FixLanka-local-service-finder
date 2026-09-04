@@ -158,10 +158,10 @@ npm run dev
 
 | Team Member Name | Student ID | Primary Component Ownership | Key Commits |
 |---|---|---|---|
-| Member 1 (Placeholder) | [STUDENT_ID_1] | Service Discovery & Frontend UI | `feat: build responsive navigation`, `feat: implement provider cards & search filters` |
-| Member 2 (Placeholder) | [STUDENT_ID_2] | Provider Management & Backend API | `feat: configure MongoDB connection`, `feat: implement provider CRUD & seed data` |
-| Member 3 (Placeholder) | [STUDENT_ID_3] | Service Request & Tracking System | `feat: implement service request form`, `feat: add phone validation & status tracking` |
-| Member 4 (Placeholder) | [STUDENT_ID_4] | Integration, Smart Match & Quality | `feat: integrate frontend API layer`, `feat: implement smart match algorithm & error handling` |
+| Member 1  | [IT24103258] | Service Discovery & Frontend UI | `feat: build responsive navigation`, `feat: implement provider cards & search filters` |
+| Member 2  | [IT24101129] | Provider Management & Backend API | `feat: configure MongoDB connection`, `feat: implement provider CRUD & seed data` |
+| Member 3  | [IT24100422] | Service Request & Tracking System | `feat: implement service request form`, `feat: add phone validation & status tracking` |
+| Member 4  | [IT24100624] | Integration, Smart Match & Quality | `feat: integrate frontend API layer`, `feat: implement smart match algorithm & error handling` |
 
 ---
 
@@ -174,3 +174,6 @@ This application was structured with assistance from AI coding tools. Refer to [
 - **No Authentication**: Built intentionally without login/JWT to satisfy hackathon speed and simplicity goals.
 - **Demo Status Controls**: Status updates are open on the tracking UI for quick presentation demonstration.
 - **Future Improvements**: Add SMS/WhatsApp notifications via Twilio, interactive Google Maps location pins, customer reviews/ratings submission, and provider dashboard login.
+
+## 14. Demonstration Video Link:
+https://drive.google.com/file/d/1e868wf0J-TyAyIvGC6_qDCM_49axd34Q/view?usp=sharing
