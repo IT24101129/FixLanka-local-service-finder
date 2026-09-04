@@ -70,7 +70,7 @@ export const deleteProvider = async (id) => {
   return request(`/providers/${id}`, { method: 'DELETE' });
 };
 
-/* ================= SERVICE REQUEST API SERVICES ================= */
+/* ============ SERVICE REQUEST API SERVICES ============= */
 
 export const getRequests = async () => {
   return request('/requests', { method: 'GET' });

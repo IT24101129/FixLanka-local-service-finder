@@ -56,6 +56,7 @@ export const calculateSmartMatch = (provider, criteria = {}) => {
   score += ratingScore;
   breakdown.push({ factor: 'Customer Rating & Experience', points: ratingScore, max: 10, status: `${provider.rating || 4.5}/5.0 Stars` });
 
+  
   // Tier Classification
   let label = 'Possible Match';
   let badgeColor = 'badge-cancelled';
