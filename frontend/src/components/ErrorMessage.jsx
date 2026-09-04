@@ -18,4 +18,5 @@ const ErrorMessage = ({ message = 'An unexpected error occurred.', onRetry }) =>
   );
 };
 
+
 export default ErrorMessage;

@@ -113,4 +113,5 @@ const SearchFilters = ({ filters, onFilterChange, onReset }) => {
   );
 };
 
+
 export default SearchFilters;

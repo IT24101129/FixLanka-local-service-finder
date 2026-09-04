@@ -9,4 +9,5 @@ const Loading = ({ message = 'Loading FixLanka data...' }) => {
   );
 };
 
+
 export default Loading;
