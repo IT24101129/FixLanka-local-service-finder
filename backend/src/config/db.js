@@ -15,3 +15,5 @@ const connectDB = async () => {
 };
 
 module.exports = connectDB;
+
+// IT24101129: Backend configuration and MongoDB connection setup

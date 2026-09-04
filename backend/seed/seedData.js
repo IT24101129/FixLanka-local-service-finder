@@ -130,3 +130,5 @@ const seedDatabase = async () => {
 };
 
 seedDatabase();
+
+// IT24101129: Sample Sri Lankan provider data for database seeding
